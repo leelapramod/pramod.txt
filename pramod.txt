@@ -1,0 +1,6 @@
+Name: kada.leela pramod kumar
+Year of study : 2nd year
+Department : CSE
+Section : A
+Hobbies : listen songs, reading books
+Technical skills : C programming
